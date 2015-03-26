@@ -1,3 +1,29 @@
+body{
+    background: url(http://www.mitja.biz/templates/yoo_showroom/images/background/texture/diagonal_50.png) 0 0 repeat fixed, url(http://kapenzohair.com/wp-content/uploads/2013/05/hilary_duff_beautiful_hair_1920x1200.jpg) 50% 50% no-repeat fixed;
+    background-size: auto, cover;
+}
+
 .modal-body{
     width: 100%;
+}
+
+.gumb-poslji{
+    float: right;
+    margin-right: 15px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.con_rob{
+    background-color: rgba(245, 245, 245, 0.95);
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.noga_link a{
+    color: inherit;
+}
+
+.noga_link a:hover{
+    color: inherit;
 }
