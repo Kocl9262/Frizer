@@ -27,3 +27,23 @@ body{
 .noga_link a:hover{
     color: inherit;
 }
+
+.panel-heading {
+    cursor: pointer;
+}
+
+.table{
+    background-color: white;
+}
+
+.produkti_img{
+    height: 400px;
+}
+
+.barvanje_img{
+    height: 300px;
+}
+
+.font_title{
+    font-family: "Lithos Pro" inherit;
+}
