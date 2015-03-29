@@ -60,3 +60,11 @@ body{
 .font_title{
     font-family: "Lithos Pro" inherit;
 }
+
+.carousel .carousel-control{
+    visibility: hidden;
+}
+
+.carousel:hover .carousel-control{
+    visibility: inherit;
+}
